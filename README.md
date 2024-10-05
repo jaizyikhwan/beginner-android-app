@@ -26,11 +26,9 @@ Aplikasi Android sederhana yang menampilkan daftar objek wisata di Tulungagung. 
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshot/ss_1.png" width="20%"/>
-  <img src="screenshot/ss_2.png" width="20%"/>
-  <img src="screenshot/ss_3.png" width="20%"/>
-</p>
+<img src="screenshot/ss_1.png" width="25%"/>
+<img src="screenshot/ss_2.png" width="25%"/>
+<img src="screenshot/ss_3.png" width="25%"/>
 
 
 ## Authors
