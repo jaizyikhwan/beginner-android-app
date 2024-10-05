@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Wisata Tulungagung</string>
+    <string name="wisata_name">Tempat Wisata</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Aloon-Aloon Tulungagung</item>
+        <item>Gunung Budheg</item>
+        <item>Candi Dadi</item>
+        <item>Ranu Gumbolo</item>
+        <item>Taman Hutan Kota</item>
+        <item>Puncak Jowin</item>
+        <item>Alam Kandung</item>
+        <item>Sungai Niyama</item>
+        <item>Pantai Pacar</item>
+        <item>Waduk Wonorejo</item>
+        <item>Pantai Sanggar</item>
+        <item>Pantai Kedung Tumpang</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Aloon-Aloon Tulungagung adalah pusat ruang terbuka hijau di kota Tulungagung, Jawa Timur. Tempat ini menjadi lokasi rekreasi dan bersantai bagi warga, dikelilingi oleh pepohonan rindang, taman, serta area bermain. Berbagai acara, seperti pasar malam dan festival, sering diadakan di sini, menjadikannya pusat kegiatan sosial dan budaya yang ramai dan dinamis.</item>
+        <item>Gunung Budheg di Tulungagung, Jawa Timur, adalah destinasi hiking populer dengan ketinggian sekitar 585 meter. Jalur pendakiannya menantang namun cocok untuk pendaki pemula. Dari puncaknya, pengunjung disuguhi pemandangan indah kota Tulungagung dan sekitarnya. Gunung ini juga dikenal sebagai tempat menikmati matahari terbit dan suasana alam yang tenang.</item>
+        <item>Candi Dadi di Tulungagung, Jawa Timur, adalah situs bersejarah yang terletak di puncak bukit. Candi ini terbuat dari batu andesit dan diperkirakan dibangun pada era Kerajaan Majapahit. Selain memiliki nilai sejarah, lokasinya menawarkan pemandangan alam yang indah. Candi Dadi menjadi destinasi wisata budaya dan spiritual bagi para pengunjung.</item>
+        <item>Ranu Gumbolo di Tulungagung, Jawa Timur, adalah danau alami yang dikelilingi hutan pinus, menciptakan suasana sejuk dan tenang. Tempat ini populer untuk berkemah, piknik, dan fotografi, terutama di kalangan pecinta alam. Airnya yang jernih dan pemandangan yang indah menjadikan Ranu Gumbolo sebagai destinasi favorit untuk relaksasi dan rekreasi alam</item>
+        <item>Taman Hutan Kota Tulungagung adalah ruang hijau yang berfungsi sebagai paru-paru kota dan tempat rekreasi warga. Dipenuhi pepohonan rindang dan jalur pejalan kaki, taman ini menawarkan suasana sejuk dan asri. Cocok untuk berolahraga, bersantai, atau berkumpul bersama keluarga, Taman Hutan Kota menjadi salah satu destinasi favorit bagi masyarakat lokal.</item>
+        <item>Puncak Jowin di Tulungagung, Jawa Timur, adalah destinasi wisata alam yang menawarkan pemandangan panorama pegunungan dan lanskap hijau. Tempat ini populer di kalangan pendaki dan penggemar fotografi, terutama untuk menikmati matahari terbit. Suasana sejuk dan alam yang tenang menjadikan Puncak Jowin sebagai tempat ideal untuk melepas penat dan menikmati keindahan alam</item>
+        <item>Alam Kandung di Tulungagung, Jawa Timur, adalah destinasi wisata alam dengan air terjun jernih yang dikelilingi tebing-tebing indah. Tempat ini menawarkan suasana alami yang sejuk dan tenang, cocok untuk berendam dan bersantai. Dengan pemandangan alam yang memukau dan air yang segar, Alam Kandung menjadi favorit bagi wisatawan lokal untuk rekreasi dan melepas penat.</item>
+        <item>Sungai Niyama di Tulungagung, Jawa Timur, adalah destinasi wisata alam yang menawarkan keindahan aliran air jernih dan suasana asri di sekitarnya. Sungai ini sering menjadi tempat favorit untuk kegiatan seperti berenang dan bermain air. Lingkungan yang masih alami dengan pepohonan hijau menjadikan Sungai Niyama tempat yang ideal untuk bersantai dan menikmati alam.</item>
+        <item>Pantai Pacar di Tulungagung, Jawa Timur, adalah pantai indah yang menawarkan pasir putih dan air laut biru jernih. Dikelilingi tebing-tebing hijau, pantai ini memiliki suasana tenang dan alami. Cocok untuk berkemah, menikmati sunset, atau sekadar bersantai, Pantai Pacar menjadi pilihan populer bagi wisatawan yang mencari ketenangan dan keindahan alam.</item>
+        <item>Waduk Wonorejo di Tulungagung, Jawa Timur, adalah salah satu waduk terbesar di Indonesia yang menawarkan pemandangan alam indah. Dikelilingi perbukitan hijau, waduk ini menjadi tempat rekreasi populer untuk memancing, berperahu, dan menikmati suasana tenang. Selain fungsi irigasi dan pembangkit listrik, Waduk Wonorejo juga menjadi destinasi wisata alam yang menenangkan bagi wisatawan</item>
+        <item>Pantai Sanggar di Tulungagung, Jawa Timur, menawarkan keindahan alami dengan pasir putih bersih dan ombak yang tenang. Dikelilingi perbukitan hijau, pantai ini cocok untuk berkemah dan menikmati ketenangan alam. Keindahan panorama matahari terbenamnya menjadi daya tarik utama bagi para wisatawan, menjadikan Pantai Sanggar sebagai destinasi favorit untuk relaksasi dan fotografi.</item>
+        <item>Pantai Kedung Tumpang di Tulungagung, Jawa Timur, terkenal dengan kolam-kolam alami yang terbentuk di antara batu karang di tepi pantai. Air jernih berwarna biru kehijauan menjadikannya tempat unik untuk berenang dan berfoto. Pemandangan tebing karang yang eksotis menambah pesona pantai ini, membuat Pantai Kedung Tumpang destinasi favorit bagi pecinta alam dan fotografi.</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/aloon</item>
+        <item>@drawable/budheg</item>
+        <item>@drawable/dadi</item>
+        <item>@drawable/gumbolo</item>
+        <item>@drawable/huko</item>
+        <item>@drawable/jowin</item>
+        <item>@drawable/kandung</item>
+        <item>@drawable/niyama</item>
+        <item>@drawable/pacar</item>
+        <item>@drawable/wonorejo</item>
+        <item>@drawable/sanggar</item>
+        <item>@drawable/tumpang</item>
+    </integer-array>
+</resources>
