@@ -35,5 +35,5 @@ Aplikasi Android sederhana yang menampilkan daftar objek wisata di Tulungagung. 
 
 ## Authors
 
-- [@ojaizyikhwan](https://github.com/jaizyikhwan)
+- [Muhammad Ikhwan Jaizy](https://github.com/jaizyikhwan)
 
